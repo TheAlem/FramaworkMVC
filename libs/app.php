@@ -1,6 +1,6 @@
 <?php
 class App{
-    function_construct()
+    function __construct()
     {
 
     }
