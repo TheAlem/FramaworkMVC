@@ -1,0 +1,2 @@
+RewritEngine On
+RewritRule ^(.*)$index.php?url=$1[L,QSA]
